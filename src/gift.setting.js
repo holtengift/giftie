@@ -37,5 +37,5 @@ export const gifts = [
   { key: 'w', name: '黄金(10g)', alias: '黄金(10g)', image: './images/gold.png',  description: '「金诚可贵, 情比金坚」' },
   { key: 't', name: '洗碗券x12', alias: '洗碗券x12', image: './images/wash.png',  description: '「每月一次, 轻松自在」' },
   { key: 'y', name: '1314红包', alias: '1314', image: './images/money.png',  description: '「从今往后，我都会在你旁边」' },
-  { key: 'u', name: 'YSL小金条口红', alias: 'YSL小金条', image: './images/ysl.png',  description: '「直击你，非45°的美」' },
+  { key: 'u', name: 'YSL小金条口红', alias: 'YSL小金条', image: './images/ysl.png',  description: '「直击你, 非45°的美」' },
 ];
